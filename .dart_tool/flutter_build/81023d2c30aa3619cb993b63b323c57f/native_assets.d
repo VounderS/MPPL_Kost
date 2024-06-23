@@ -1,0 +1,1 @@
+ D:\\flutter_project\\kost\\.dart_tool\\flutter_build\\81023d2c30aa3619cb993b63b323c57f\\native_assets.yaml: 
